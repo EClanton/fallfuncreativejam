@@ -1,0 +1,13 @@
+p{padding-left: 50px;}
+
+h1{padding-top: 15px;padding-bottom: 15px}
+
+h2 {padding-bottom: -15px;padding-left: 50px}
+
+ul{padding-left: 70px}
+
+img{border: solid 8px; border-color:darkred}
+
+a{padding-left: 50px;}
+
+     footer{text-align: center; font-size: 100%; background-color:darkred;color:antiquewhite;}
